@@ -1,0 +1,150 @@
+.h1{ background-color:#ff4757; 
+	text-align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	color:;
+	-webkit-text-stroke-width:2px;
+	 
+	padding-top: 20px;
+	padding-bottom:20px;
+	width: 1020px;
+}
+.h2{
+	background-color:#9AECDB; 
+	text-align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	color:;
+	-webkit-text-stroke-width:2px;
+	 
+	padding-top: 20px;
+	padding-bottom:20px;
+	width: 1020px;
+}
+.d9{ background-color:#9AECDB;
+padding-top: 25px;
+	text-align: center;
+	margin: auto;
+	width:1020px;
+	height: 730px;
+}
+.p9{
+	margin:0;
+
+	width: 500px;
+	height: 500px;
+	text-align: center;
+}
+body{
+	margin: 0;
+	background-color:#F8EFBA;
+	font-family: cursive;
+
+}
+.p1{
+	margin:0;
+
+	width: 500px;
+	height: 700px;
+	text-align: center;
+	}
+.p2{
+	margin:0;
+
+	width: 500px;
+	height: 700px;
+	text-align: center;
+	
+}
+.d10{padding-top: 25px;
+	text-align: center;
+	margin: auto;
+	width:1020px;
+	height: 730px;
+	background-color:#6D214F ;
+}
+.d1{
+text-align: center;
+
+	 
+	margin:auto;
+	width:500px;
+    float: right;
+    padding-left:5px;
+    padding-right:5px;
+}
+.d2{ 
+	text-align: center;
+	
+	margin:auto;
+	width: 500px;
+    float:left;
+   
+   padding-left:5px;
+    padding-right:5px;
+}
+.d20{
+	padding-top: 25px;
+	text-align: center;
+	margin: auto;
+	padding-bottom: 25px;
+	height: 500px;
+	
+   width: 1020px;
+   background-color: #FD7272;
+}
+.d3{text-align: center;
+
+	 
+	margin:auto;
+	width:400px;
+    float: right;
+    padding-left:10px;
+    padding-right:50px;}
+.d4{text-align: center;
+	
+	margin:auto;
+	width: 400px;
+	
+    float:left;
+   
+   padding-left:50px;
+    padding-right:10px;}
+
+.p3{
+	margin:0;
+
+	width: 400px;
+	height: 475px;
+	text-align: center;
+	}
+.p4{
+	margin:0;
+
+	width: 400px;
+	height: 475px;
+	text-align: center;
+	
+}
+.d30{
+padding-top: 100px;
+	text-align: center;
+	margin: auto;
+	padding-bottom: 25px;
+	height: 500px;
+	
+   width: 1020px;
+   background-color: #25CCF7;
+}
+
+.p5{
+margin:0;
+padding:auto;
+	width: 800px;
+	height: 500px;
+	text-align: center;
+}
